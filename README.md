@@ -8,4 +8,4 @@ The data used for this project come from the [HASYv2 dataset.](https://www.kaggl
 
 ![High Level Model Description](/images/high_level_model.png)
 
-![High Level Architecture](/images/RezNet_Architecture.png)
+![High Level Architecture](/images/RezNet_architecture.png)
